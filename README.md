@@ -1,11 +1,12 @@
 # Program_z_zastosowaniem_modulo
 
-Program liczy do 100. Jesli wynik jest podzielny bez reszty przez 3, wyświetlany jest dodatkowo tekst pies.
-
+The program counts up to 100. If the result is completely divisible by 3, the dog text is additionally displayed.
+If the result is divisible by 5, the pad displays the text of the cat.
+In other cases, the console will display the text dog and cat.
+JavaScript script language and for loops were used
+/ (PL) Program liczy do 100. Jesli wynik jest podzielny bez reszty przez 3, wyświetlany jest dodatkowo tekst pies.
 Jesli wynik jest podzielny bez reszty przez 5, konsola wyswietla tekst kot.
-
 W pozostałych przypadkach konsola wyswietli tekst pies i kot.
-
 Zastosowano język skryptowy JavaScript i pętle for
 
 Program pisany w JSBin pod linkiem http://jsbin.com/nenopoc/1
