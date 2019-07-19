@@ -1,4 +1,4 @@
-# Program_z_zastosowaniem_modulo
+# Program-using-modulo
 
 The program counts up to 100. If the result is completely divisible by 3, the dog text is additionally displayed.
 If the result is divisible by 5, the pad displays the text of the cat.
