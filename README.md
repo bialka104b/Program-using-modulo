@@ -9,5 +9,6 @@ Jesli wynik jest podzielny bez reszty przez 5, konsola wyswietla tekst kot.
 W pozostałych przypadkach konsola wyswietli tekst pies i kot.
 Zastosowano język skryptowy JavaScript i pętle for
 
-Program pisany w JSBin pod linkiem http://jsbin.com/nenopoc/1
- https://bialka104b.github.io/Program-using-modulo
+The program is written in JSBin under the link http://jsbin.com/nenopoc/1
+
+ Preview https://bialka104b.github.io/Program-using-modulo
