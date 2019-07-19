@@ -10,3 +10,4 @@ W pozostałych przypadkach konsola wyswietli tekst pies i kot.
 Zastosowano język skryptowy JavaScript i pętle for
 
 Program pisany w JSBin pod linkiem http://jsbin.com/nenopoc/1
+ https://bialka104b.github.io/Program-using-modulo
